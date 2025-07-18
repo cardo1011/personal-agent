@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# API Keys
-GEMINI_API_KEY="AIzaSyBodCTHN_rWDVTvXMikwOYYvFY-3FrUD6g"
+secure folder
+.env
+
